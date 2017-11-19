@@ -1,0 +1,56 @@
+/*{border: 1px solid red !important;}*/
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+p{
+	color: white;
+}
+
+.container-fluid{
+	padding: none;
+}
+
+@media (min-width: @screen-sm-min) {
+ }
+
+.site-title {
+	font-size: 1em;
+	font-weight: strong;
+}
+
+ul{
+	padding: 0;
+	list-style-type: none;
+}
+.navigation{
+	padding-top: 15px;
+	margin-bottom: 250px;
+	background-color: blue;
+	color: white;
+	font-size: 0.9em;
+}
+
+.project1{
+	margin-top: 80px;
+	background-color: magenta;
+}
+.image{
+	padding-top:15px;
+	width: 100%;
+}
+
+.project2{
+	margin-top: 80px;
+	background-color: magenta;
+}
+.project3{
+	margin-top: 80px;
+	background-color: magenta;
+}
+
+
+
